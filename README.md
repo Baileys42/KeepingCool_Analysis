@@ -1,7 +1,7 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10989968.svg)](https://doi.org/10.5281/zenodo.10989969)
+
 
 # Explanation of codebase
-This is a fork of the general purpose smFRET repository for the analysis of single-moelcule FRET data. This fork adds a the ability to fit residence time cumulative density functions with either a single or double exponential fit to determine the underlying kinetics. Additionally, this fork includes a heatmap visualisation function to observe underlying FRET behaviours of individual molecules. The standard workflow for use of this code is the same as detailed in the original code readme text below. The above DOI links to the original code base this project was forked from.
+This is a fork of the general purpose smFRET repository for the analysis of single-moelcule FRET data. This fork adds a the ability to fit residence time cumulative density functions with either a single or double exponential fit to determine the underlying kinetics. Additionally, this fork includes a heatmap visualisation function to observe underlying FRET behaviours of individual molecules. The standard workflow for use of this code is the same as detailed in the original code readme text below. 
 
 # Two- and Three-Colour Single-Molecule FRET Trace Analaysis
 
