@@ -1,7 +1,7 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10989968.svg)](https://doi.org/10.5281/zenodo.10989969)
+[![DOI](https://zenodo.org/badge/1249744758.svg)](https://doi.org/10.5281/zenodo.20389006)
 
 # Explanation of codebase
-This is a fork of the general purpose smFRET repository for the analysis of single-moelcule FRET data. This fork adds a the ability to fit residence time cumulative density functions with either a single or double exponential fit to determine the underlying kinetics. Additionally, this fork includes a heatmap visualisation function to observe underlying FRET behaviours of individual molecules. The standard workflow for use of this code is the same as detailed in the original code readme text below. The above DOI links to the original code base this project was forked from.
+This is a fork of the general purpose smFRET repository for the analysis of single-moelcule FRET data. This fork adds a the ability to fit residence time cumulative density functions with either a single or double exponential fit to determine the underlying kinetics. Additionally, this fork includes a heatmap visualisation function to observe underlying FRET behaviours of individual molecules. The standard workflow for use of this code is the same as detailed in the original code readme text below. 
 
 # Two- and Three-Colour Single-Molecule FRET Trace Analaysis
 
@@ -19,7 +19,7 @@ Two kinds of data are required for this analysis.
     (2) For three-colour experiments, data required is exported as .txt files from the MASH-FRET GUI program (v 1.2.2). 
 
 # Installation
-This module is a work in progress, designed to capture common functionality which recurs in analysis of single-molecule FRET data. It primarily contains the `src` folder, which contains general purpose functions.
+This module is a work in progress, designed to capture common functionality which recurs in analysis of single-molecule FRET data. It primarily contains the `src` folder, which contains general purpose functions. For this manuscript, the submodule is included in this repository. To access future releases of the submodule, follow the installation instructions below.
 
 ```
 git submodule add https://github.com/nmarzano/smFRET_module smfret
