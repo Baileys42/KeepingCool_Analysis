@@ -19,7 +19,7 @@ Two kinds of data are required for this analysis.
     (2) For three-colour experiments, data required is exported as .txt files from the MASH-FRET GUI program (v 1.2.2). 
 
 # Installation
-This module is a work in progress, designed to capture common functionality which recurs in analysis of single-molecule FRET data. It primarily contains the `src` folder, which contains general purpose functions.
+This module is a work in progress, designed to capture common functionality which recurs in analysis of single-molecule FRET data. It primarily contains the `src` folder, which contains general purpose functions. For this manuscript, the submodule is included in this repository. To access future releases of the submodule, follow the installation instructions below.
 
 ```
 git submodule add https://github.com/nmarzano/smFRET_module smfret
